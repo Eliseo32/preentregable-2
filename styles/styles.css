@@ -1,0 +1,25 @@
+
+
+.logo-img {
+    width: 200px;
+    height: 200px; 
+}
+
+.titulo-texto {
+    font-size: 50px; 
+    text-align: center;
+    padding-top: 50px; 
+
+}
+.mi-imagen {
+    width: 50px;  
+    height: 500px;
+}
+.mi-icono {
+    width: 50px;  
+    height: 50px; 
+}
+.imagen-leyenda{
+    width: 100px;
+    height: 100px;
+}
